@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">A highly motivated student dev from Canada</h3>
 
-- 🌱 I’m currently learning **cloud computing with Azure**
-
-- 💬 Ask me about **my hackathon experiences**
-
-- 📫 How to reach me **vaibh123540@gmail.com**
-
-- ⚡ Fun fact **I love giving myself challenges**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vjain3" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vjain3" height="30" width="40" /></a>

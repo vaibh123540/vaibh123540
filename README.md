@@ -6,7 +6,7 @@
 # `Vaibhav Jain`
 
 **Policy Analyst Intern** · **Canada**  
-*building things somewhere between a campfire, a starship, and a terminal*
+*building things for myself*
 
 </div>
 
@@ -16,13 +16,7 @@
 
 Hey, I’m **Vaibhav**, a **Policy Analyst Intern** based in **Canada**.
 
-I like clean ideas, moody worlds, tiny details, and projects that feel useful without trying too hard.
-
-```txt
-status: surviving the backlog
-mood:   The Last of Us ambience + Star Wars scale
-fuel:   music, late-night debugging, and suspiciously strong coffee
-```
+I like a good story behind everything and projects that feel useful without trying too hard.
 
 ---
 

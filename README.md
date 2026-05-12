@@ -14,7 +14,7 @@
 
 ## `transmission`
 
-Hey, I’m **Vaibhav** — a **Policy Analyst Intern** based in **Canada**.
+Hey, I’m **Vaibhav**, a **Policy Analyst Intern** based in **Canada**.
 
 I like clean ideas, moody worlds, tiny details, and projects that feel useful without trying too hard.
 
@@ -34,7 +34,6 @@ fuel:   music, late-night debugging, and suspiciously strong coffee
 | role | **Policy Analyst Intern** |
 | base | **Canada** |
 | current quest | **Internship** |
-| vibe | pixel art · story-heavy games · sci-fi · music |
 
 ---
 

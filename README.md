@@ -5,7 +5,7 @@
 
 # `Vaibhav Jain`
 
-**Policy Analyst Intern** · **Canada**  
+**Policy Analyst Intern** · **Canada** · **University of Alberta**  
 *building things for myself*
 
 </div>
